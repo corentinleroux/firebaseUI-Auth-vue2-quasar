@@ -1,11 +1,12 @@
 import firebase from 'firebase'
 var config = {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: ""
+    apiKey: "AIzaSyCvvreJoorwKhdoKMPbHgHIoF-PS-_xvSc",
+    authDomain: "modelingwebapp.firebaseapp.com",
+    projectId: "modelingwebapp",
+    storageBucket: "modelingwebapp.appspot.com",
+    messagingSenderId: "172244241419",
+    appId: "1:172244241419:web:54269e3175b1b8057b4b0e",
+    measurementId: "G-WFWR1EB3Z1"
 };
 
 firebase.initializeApp(config)
